@@ -1,11 +1,11 @@
-[![en](https://img.shields.io/badge/lang-en-blue.svg)](https://github.com/jonatasemidio/multilanguage-readme-pattern/blob/master/README.md)
-[![pl](https://img.shields.io/badge/lang-pl-red.svg)](https://github.com/jonatasemidio/multilanguage-readme-pattern/blob/master/README.pl.md)
+[![en](https://img.shields.io/badge/lang-en-blue.svg)](https://github.com/Miku4321/ULTRAPOL/blob/main/README.md)
+[![pl](https://img.shields.io/badge/lang-pl-red.svg)](https://github.com/Miku4321/ULTRAPOL/blob/main/README.pl.md)
 
 # ULTRAPOL
 ULTRAPOL jest nieoficjalną odnogą innego moda do Ultrakilla o nazwie "ULL" (skrót od "Ultrakill Language Library").
-Jeśli zainstalowałeś BepInExa oraz ULL, będziesz mógł użyć plików z tego repozytorium, aby grać w Ultrakilla z polskim tekstem i polską czcionką.
+<br/>Jeśli zainstalowałeś BepInExa oraz ULL, będziesz mógł użyć plików z tego repozytorium, aby grać w Ultrakilla z polskim tekstem i polską czcionką.
 
-Które treści tłumaczy ten mod:
+## Jakie treści tłumaczy ten mod
 - [x] Tekst (n.p. napisy, interfejs, książki, nazwy wrogów, opisy broni)
 - [x] Czcionka (tzn. polskie znaki)
 - [ ] Tekstury (n.p. tekst na ścianie)

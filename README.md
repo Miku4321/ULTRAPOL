@@ -3,9 +3,9 @@
 
 # ULTRAPOL
 ULTRAPOL is an unofficial subset of another Ultrakill mod called "ULL" (short for "Ultrakill Language Library").
-Given you have both BepInEx and ULL installed, the files presented in this repository will allow you to play Ultrakill with both polish text and font.
+<br/>Given you have both BepInEx and ULL installed, the files presented in this repository will allow you to play Ultrakill with both polish text and font.
 
-What content does this mod translate:
+## What content does this mod translate
 - [x] Text (e.g. subtitles, interface, books, enemy names, weapon descriptions)
 - [x] Font
 - [ ] Textures (e.g. text on walls)
