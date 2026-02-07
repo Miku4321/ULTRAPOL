@@ -1,5 +1,5 @@
-[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/jonatasemidio/multilanguage-readme-pattern/blob/master/README.md)
-[![pl](https://img.shields.io/badge/lang-pl-yellow.svg)](https://github.com/jonatasemidio/multilanguage-readme-pattern/blob/master/README.pl.md)
+[![en](https://img.shields.io/badge/lang-en-blue.svg)](https://github.com/Miku4321/ULTRAPOL/blob/main/README.md)
+[![pl](https://img.shields.io/badge/lang-pl-red.svg)](https://github.com/Miku4321/ULTRAPOL/blob/main/README.pl.md)
 
 # ULTRAPOL
 ULTRAPOL is an unofficial subset of another Ultrakill mod called "ULL" (short for "Ultrakill Language Library").
